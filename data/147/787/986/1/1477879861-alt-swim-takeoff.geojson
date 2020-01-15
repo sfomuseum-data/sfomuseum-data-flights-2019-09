@@ -6,6 +6,7 @@
     "geom:bbox":"0.000000,0.000000,0.000000,0.000000",
     "geom:latitude":37.604239,
     "geom:longitude":-122.742238,
+    "src:alt_label":"swim-takeoff",
     "src:geom":"swim",
     "swim:elevations":[
         4,
@@ -412,7 +413,6 @@
         1568908219,
         1568908222
     ],
-    "wof:alt_label":"swim-takeoff",
     "wof:geomhash":"79ade976a1d698501b191dcd6442fdce",
     "wof:id":1477879861,
     "wof:repo":"sfomuseum-data-flights-2019-09"
