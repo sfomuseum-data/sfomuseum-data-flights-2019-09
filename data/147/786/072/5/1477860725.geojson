@@ -76,10 +76,13 @@
       1159283813,
       1159157833
     ],
-    "wof:lastmodified": 1653355176,
+    "wof:lastmodified": 1717006927,
     "wof:name": "AS326 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],
